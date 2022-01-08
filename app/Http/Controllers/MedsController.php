@@ -48,8 +48,8 @@ class MedsController extends Controller
             'lat' => 'required',
             'lng' => 'required',
             'lga' => 'required',
-            'city' => 'required'        
-            // 'image' => 'required|mimes:jpeg,png,jpeg|max:50087'
+            'city' => 'required',      
+            'image' => 'required|mimes:jpeg,png,jpeg|max:50087'
         ]);
 
         $imageName = time() . '-' . $request->site_name . '.' . $request->image->extension();

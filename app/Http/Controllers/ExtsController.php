@@ -28,7 +28,7 @@ class ExtsController extends Controller
 
         $meds = new Extension;
         $meds->site_name = $request->input('site_name');
-        $meds->lat = $request->input('address');
+        $meds->address = $request->input('address');
         $meds->lga = $request->input('lga');
         $meds->city = $request->input('city');
         $meds->image_path = $imageName;      

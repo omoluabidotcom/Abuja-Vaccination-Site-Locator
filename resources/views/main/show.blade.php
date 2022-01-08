@@ -68,7 +68,7 @@
                     marker.push({
                         cords: {lat: markerSec[i]['lat'], lng: markerSec[i]['lng']},
                         content: "<h1>" + markerSec[i]['sitename'] + "</h1>"
-                        // iconImage: "<span> {{ asset('Icon/icon15.png') }} </span>"
+                        // iconImage: "https://drive.google.com/file/d/1gJcj169SSSVP0gVq9QJWBJzjNDzdiKKh/view?usp=sharing"
                     })
                 }
 

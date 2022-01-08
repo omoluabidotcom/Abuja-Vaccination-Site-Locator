@@ -3,13 +3,3 @@
 @import "tailwindcss/components";
 
 @import "tailwindcss/utilities";
-
-#map {
-    height: 400px;
-    margin-top: 30px;
-    padding: 0;
-    width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-  }
- 

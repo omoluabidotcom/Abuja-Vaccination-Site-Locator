@@ -21,12 +21,6 @@
                     You are logged in!
                 </p>
             </div>
-
-            <div class="w-100 pl-6 bg-grey-200 mb-2">
-                <form action="main/create" method="GET" >
-                    <button class="bg-gray-200 px-2 py-2 rounded-full"> Enter New Vaccination Site </button>
-                </form>
-            </div>
         </section>
     </div>
 </main>

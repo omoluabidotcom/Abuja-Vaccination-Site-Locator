@@ -1,7 +1,7 @@
 @extends('../layouts.copy')
 
 @section('content')
-<p class="text-2xl text-bold flex justify-center mt-5"> Choose the Local Government Area you reside </p>
+<p class="text-2xl text-bold flex justify-center mt-5 sm:text-justify"> Choose the Local Government Area you Reside </p>
 <div>
     <div class="flex justify-center mt-0">
      <div class="">
